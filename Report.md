@@ -32,31 +32,34 @@ Team Number:
 
 7. Profile of UART: Sent X bytes in Y time 
 
-    your answer here
+    5 bytes/.514 milliseconds
 
 8. Profile of SPI: Sent X bytes in Y time
 
-    your answer here
+    2 bytes/35.5 microseconds
 
 9. Why is SPI so much faster than UART?
 
-    your answer here
+    SPI is synchronous
 
 10. list one pro and one con of UART
 
-    your answer here
+   Pro: uses less wires
+   Con: slower
 
 11. list one pro and one con of SPI
 
-    your answer here
+    Pro: faster
+    Con: uses more wires
 
 12. list one pro and one con of I2C
 
-    your answer here
+    Pro: simple addressing
+    Con: hardware complexity
 
 13. Why does I2C need external resistors to work?
 
-    your answer here
+    Lines need pull up or pull down resisitors
 
 ## Screenshots
 
