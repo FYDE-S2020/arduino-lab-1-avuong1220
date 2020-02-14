@@ -61,7 +61,7 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![C:\Users\avuon\OneDrive\Desktop\Spring 2020](lab1pic2.png)
+![Put path to your image here ->](img/placeholder.png)
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/placeholder.png)
