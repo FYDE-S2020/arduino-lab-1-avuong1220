@@ -20,7 +20,7 @@ Team Number:
 
 4. When lowering the frequency in procedure A, step 4, what is going wrong? Brainstorm some solutions. Dimmers exist in the real world. What is their solution?
 
-    
+    You can see the blinking when you reduce the frequency to below 100, so it doesn't seem that it is dimming to the naked eye. You can fix this by increasing the duty cycle if you want to keep the same low frequency.
 
 5. Why do you need to connect the logic analyzer ground to the ESP32 ground?
 
@@ -28,7 +28,7 @@ Team Number:
 
 6. What is the difference between synchronous and asynchronous communication?
 
-    your answer here
+    Sychronous share the same clock. Asynchronous do not share the same clock.
 
 7. Profile of UART: Sent X bytes in Y time 
 
